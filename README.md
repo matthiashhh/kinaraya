@@ -1,0 +1,2 @@
+# kinaraya
+Kinaraya language packet
